@@ -1,7 +1,7 @@
 # rigel-draftEngine
-2D Game Engine I designed using Love2D, written in Lua. 
+2D Game Engine I designed using Love2D (https://love2d.org/), written in Lua. 
 
-Wrote all code and created the art myself.
+Wrote all code and created the art myself. The art was designed mainly in Blender3D and Paint Shop Pro.
 
 Developed 2011-2014
 
