@@ -3,6 +3,7 @@
 
 Wrote all code and created the art myself. The art was designed mainly in Blender3D (https://www.blender.org/) and Paint Shop Pro.
 
-Developed 2011-2014
+Developed 2011-2014. Here's a "trailer" I made for promotion:
 
-[![Rigel Trailer](https://user-images.githubusercontent.com/8327505/210160296-7777f2ed-d38a-4f06-b928-fa055160987d.png)](http://www.youtube.com/watch?v=IAI4htCgl8g "Rigel Trailer")
+https://user-images.githubusercontent.com/8327505/223859870-f3f5c78f-3704-46b6-bcb1-6600bcb4cc67.mp4
+
